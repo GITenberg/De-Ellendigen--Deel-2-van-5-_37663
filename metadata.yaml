@@ -1,0 +1,32 @@
+_repo: De-Ellendigen--Deel-2-van-5-_37663
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37663-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hugo, Victor
+    alias: Hugo, Victor Marie, comte
+    birthdate: 1802
+    deathdate: 1885
+    gutenberg_agent_id: '85'
+    url: http://www.gutenberg.org/2009/agents/85
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
+description: Translation of Les misérables.
+gutenberg_issued: '2011-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37663'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epic literature'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PQ'
+- !lcsh 'Ex-convicts -- Fiction'
+- !lcsh 'Paris (France) -- Fiction'
+title: De Ellendigen (Deel 2 van 5)
+url: http://www.gutenberg.org/ebooks/37663
